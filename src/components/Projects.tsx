@@ -2,7 +2,7 @@ export const Projects = () => {
     return(
         <>
           
-            <div className= "w-11/12 text-2xl font-bold "> Aqui podras encontrar los proyectos en los que e trabajado</div><br></br>
+            <div className= "w-11/12 text-2xl font-bold "> Aqui podras encontrar los proyectos en los que he trabajado</div><br></br>
            <div>
             <div className=" w-80 bg-gray-600">
             <h1 className="text-3xl font-bold text-white">Tenaj</h1><br></br>
@@ -15,7 +15,7 @@ export const Projects = () => {
             </p>
             
                 <h3 className="font-mono">el juego fue desarrollado en greenfoot usando java mientras que los sprites se dibujaron en piskel</h3>
-                <img src="src\images\Tenaj.jpeg" alt="place holder" id="1"></img>
+                <img src="public\src\images\Tenaj.jpeg" alt="place holder" id="1"></img>
             </div>
             <br></br>
             <div className=" w-80 bg-gray-600">
