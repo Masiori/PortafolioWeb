@@ -9,7 +9,7 @@ export const RouterR = () => {
     <Router>
         <Menu/>
         <Routes>
-            
+            <Route path="/" element={<AboutMe/>}/>
             <Route path="/AboutMe" element={<AboutMe/>}/>
             <Route path="/Projects" element={<Projects/>}/>
             <Route path="/Hobbies" element={<Hobbies/>}/>
