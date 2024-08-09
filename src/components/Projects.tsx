@@ -15,7 +15,7 @@ export const Projects = () => {
             </p>
             
                 <h3 className="font-mono">el juego fue desarrollado en greenfoot usando java mientras que los sprites se dibujaron en piskel</h3>
-                <img src="public\src\images\Tenaj.jpeg" alt="place holder" id="1"></img>
+                <img src="\images\Tenaj.jpeg" alt="place holder" id="1"></img>
             </div>
             <br></br>
             <div className=" w-80 bg-gray-600">
