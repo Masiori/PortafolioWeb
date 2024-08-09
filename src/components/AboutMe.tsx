@@ -8,7 +8,7 @@ export const AboutMe = () => {
          <div>
         <div className="flex items-center justify-center">
       <img
-        src="src\images\Matenme.jpeg"
+        src="\images\Matenme.jpeg"
         alt="Descripción"
         className="w-64 h-64 rounded-full object-cover"
       />
