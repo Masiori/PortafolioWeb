@@ -22,7 +22,7 @@ export const Hobbies = () => {
             una gran paciencia y atención al detalle, habilidades esenciales para lograr precisión en cualquier tarea. Además, el proceso creativo de diseñar patrones y combinaciones de colores me ha 
             permitido mejorar mi capacidad para innovar y pensar de manera estética, lo cual aplico en diversas áreas de mi vida. Esta actividad también me enseña a manejar el tiempo de manera eficiente y a 
             perseverar en la consecución de metas, cualidades que son fundamentales en mi desempeño profesional.</p>
-            <img src="src\images\Miyuki.jpeg" alt = "Miyuki" className = "w-64 h-64"/>
+            <img src="\Miyuki.jpeg" alt = "Miyuki" className = "w-64 h-64"/>
             </div>
 
 
