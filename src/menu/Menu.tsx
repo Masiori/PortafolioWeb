@@ -16,7 +16,7 @@ export const Menu = () => {
                     Projects</Link>
                 </li>
                 <li>
-                    <a href="/Hobbies" className="text-gray-900 dark:text-white hover:underline">Hobbies</a>
+                    <Link to="/Hobbies" className="text-gray-900 dark:text-white hover:underline">Hobbies</Link>
                 </li>
             </ul>
         </div>
