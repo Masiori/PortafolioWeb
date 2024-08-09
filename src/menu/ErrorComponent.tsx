@@ -9,7 +9,7 @@ export const ErrorComponent = () => {
             <div>
               <div>
                 <div>
-                  <h1 className="text-5xl">El verdadero de front-end son los divs que hicicimos en el camino</h1>
+                  <h1 className="text-5xl">El verdadero front-end son los divs que hicicimos en el camino</h1>
                 </div>
               </div>
             </div>
